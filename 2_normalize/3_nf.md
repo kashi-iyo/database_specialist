@@ -28,6 +28,9 @@
 
 - 「X が決まると Y が決まる」「Y が決まると X に関係なく Z が決まる」「Y が決まっても X は決まらない」
 
+<img width="450" alt="スクリーンショット 2024-04-29 13 31 30" src="https://github.com/kashi-iyo/database_specialist/assets/54946329/fde1482e-8b0e-4585-b00b-e032d5614adf">
+
+
 ## 推移的関数従属性を排除する方法
 
 - X→Y→Z の関係において、Y→Z を別の関係にする
